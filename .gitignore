@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings/
+target/
+mpm-gui-desktop/data/
+mpm-gui-desktop/derby*
+
